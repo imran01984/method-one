@@ -34,7 +34,7 @@ function StaticExample() {
   return (
     <>
     <div className="white-button" onClick={handleShow}>
-        <a href="#">
+        <a href="/">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
@@ -109,7 +109,7 @@ function StaticExample() {
               </div>
             ))}
           </Form>
-          <a href="#" className="btn btn-new" onClick={handleClose}>
+          <a href="/" className="btn btn-new" onClick={handleClose}>
             Get Started
           </a>
         </Modal.Footer>

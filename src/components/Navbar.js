@@ -16,11 +16,9 @@ const Header = () => {
       </div>
       <nav>
         <ul class="menu-items">
-
-
           <li>
-            <a href="#" className="header-link fixed">Learn</a>
-            <a href="#" className="header-link move">Use</a>
+            <a href="/" className="header-link fixed">Learn</a>
+            <a href="/" className="header-link move">Use</a>
             <div class="mega-menu">
               <div class="content">
               
@@ -28,7 +26,7 @@ const Header = () => {
                   <section>
 
                     <ul class="mega-links">
-                      <li><a href="#">Overview  </a></li>
+                      <li><a href="/">Overview  </a></li>
                       
                     </ul>
                   </section>
@@ -37,9 +35,9 @@ const Header = () => {
                   <section>
 
                     <ul class="mega-links">
-                      <li><a href="#">Standard Approach</a></li>
-                      <li><a href="#">Methods</a></li>
-                      <li><a href="#">Deliverables</a></li>
+                      <li><a href="/">Standard Approach</a></li>
+                      <li><a href="/">Methods</a></li>
+                      <li><a href="/">Deliverables</a></li>
                     </ul>
                   </section>
                 </div>
